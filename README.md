@@ -58,7 +58,7 @@ No fluff. Just the steps — with the worksheets to implement them.
 
 <img src="giovanni-brees.png" alt="Giovanni Brees — founder, entrepreneur and author" width="140" align="right">
 
-**Giovanni Brees** is a serial entrepreneur, founder and author based in New York. From 2010 to 2025 he built and ran a group of marketing companies — including a product-launch operation that took more than **4,500 products** to market and helped raise **over half a billion dollars** on Kickstarter and Indiegogo.
+**Giovanni Brees** is a serial entrepreneur, founder and author. From 2010 to 2025 he built and ran a group of marketing companies — including a product-launch operation that took more than **4,500 products** to market and helped raise **over half a billion dollars** on Kickstarter and Indiegogo.
 
 He is the founder behind **Meet Oscar**, **CiteEngine** and **KentoHQ**, and the author of *The Zero-Employee Company* (2026) and *The Crowdfunding Quick-Guide*. Today he runs a portfolio of ventures operated by AI agents he designs, governs and inspects rather than manages.
 
