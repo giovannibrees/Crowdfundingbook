@@ -96,7 +96,7 @@ No fluff. Just the steps — with the worksheets to implement them.
 
 He is the founder behind **Meet Oscar**, **CiteEngine** and **KentoHQ**, and the author of *The Zero-Employee Company* (2026) and *The Crowdfunding Quick-Guide*. He is also an investor, backing companies through MaxCapital since 2007, while his newest companies run on AI agents he designs and governs.
 
-**Book details:** ISBN 979-8-9867165-0-3 · English · Publisher: BoostYourCampaign
+**Book details:** ISBN 979-8-9867165-0-3 · 400+ pages (print edition) · English · Publisher: BoostYourCampaign
 
 ---
 
