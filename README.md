@@ -8,7 +8,7 @@
 
 **By [Giovanni Brees](https://www.giovannibrees.com) · 2nd Edition · Crowdfunding & Entrepreneurship**
 
-[**🌐 Official website**](https://www.giovannibreesbook.com) &nbsp;·&nbsp; [**📖 Get it on Amazon**](https://www.amazon.com/dp/B0GY64VXN4) &nbsp;·&nbsp; [**💼 LinkedIn**](https://www.linkedin.com/in/giovannibrees/)
+[**🌐 Book website**](https://www.giovannibreesbook.com) &nbsp;·&nbsp; [**📖 Get it on Amazon**](https://www.amazon.com/dp/B0GY64VXN4) &nbsp;·&nbsp; [**💼 LinkedIn**](https://www.linkedin.com/in/giovannibrees/)
 
 *As featured in* **Forbes · The New York Times · Bloomberg**
 
