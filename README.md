@@ -20,7 +20,7 @@
 
 You build the crowd **before** you build the product — and this book shows you exactly how. Crowdfunding isn't luck. It's a **system**.
 
-Most first-time creators learn the hard way, after a campaign stalls. *The Crowdfunding Quick-Guide* hands you the playbook up front: the three phases of a campaign, the four sources nearly all the money comes from, and exactly what to do at each step — refined across nearly two decades and more than **$500 million raised** on Kickstarter and Indiegogo.
+Most first-time creators learn the hard way, after a campaign stalls. *The Crowdfunding Quick-Guide* hands you the playbook up front: the three phases of a campaign, the four sources nearly all the money comes from, and exactly what to do at each step — refined across fifteen years and more than **$700 million raised** on Kickstarter and Indiegogo.
 
 ### Where the money comes from
 
