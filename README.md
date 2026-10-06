@@ -31,17 +31,51 @@ Nearly every funded campaign is powered by the same four sources, covered in Cha
 3. **PR & media placement**
 4. **The platform crowd**
 
-## Inside the book — seven chapters, launch-ready
+## Inside the book — full table of contents
 
-| # | Chapter | What you'll learn |
-| :-: | --- | --- |
-| 01 | **Finding Your USPs & Target Audience** | Pin down what makes you different and exactly who you're for |
-| 02 | **Testing Your Audience & Offer** | Validate demand before you spend a dollar on production |
-| 03 | **Marketing & Ad Spend** | Build a pre-launch list and turn ad spend into backers |
-| 04 | **The Best Platform For YOU** | Choose between Kickstarter, Indiegogo and the rest |
-| 05 | **Campaign Planning & Costs** | Pricing, budgeting and funding-goal math that adds up |
-| 06 | **Campaign Go-Live (Launch)** | A launch-day plan, swipe emails and a press pitch |
-| 07 | **Options After Your Launch** | Fulfilment, late pledges and turning backers into a business |
+*31 chapters, in the order of a real campaign.*
+
+- *Introduction*
+- *How to Use This Book*
+- *Crowdfunding Demystified & the 3 Phases*
+- *Getting Started: From Idea to Prototype*
+- *Getting Started: Do It Yourself or Hire Help?*
+
+1. **Finding Your USPs & Target Audience**
+2. **Testing Your Audience & Offer**
+3. **Landing Pages, Email & Community**
+4. **Paid Ads, Creative, PR & Influencers**
+5. **Choosing Your Platform**
+6. **Rewards, Pricing & Pledge Tiers**
+7. **Budgeting & Setting Your Funding Goal**
+8. **Your Campaign Page & Video**
+9. **Go-Live: The First 48 Hours & the Full Run**
+10. **Manufacturing, Fulfillment & Pledge Management**
+11. **Life After the Campaign**
+12. **Launching a Game: the Complete Playbook**
+13. **From Campaign to eCommerce**
+14. **PR & Press: the Full Playbook**
+15. **Going Global**
+16. **The Go-to-Market Deep Dive**
+17. **The Crisis Playbook**
+18. **The AI Toolkit (2026)**
+19. **Equity & Alternative Funding**
+20. **Campaign Two**
+21. **Product Photography & Visual Assets**
+22. **The Campaign Video, Shot by Shot**
+23. **Meta Ads: The Complete Deep Dive**
+24. **Manufacturing & Sourcing**
+25. **Fulfillment & Logistics**
+26. **Building Community**
+27. **Influencer & Creator Partnerships**
+28. **Financial Management**
+29. **Real Campaign Teardowns**
+30. **Founder Mindset & Resilience**
+31. **Sustainability & Ethical Manufacturing**
+
+- *Why Campaigns Fail, and How to Be the 37%*
+- *Appendices A to G*
+- *About the Author*
 
 ### From the back cover
 
@@ -62,7 +96,7 @@ No fluff. Just the steps — with the worksheets to implement them.
 
 He is the founder behind **Meet Oscar**, **CiteEngine** and **KentoHQ**, and the author of *The Zero-Employee Company* (2026) and *The Crowdfunding Quick-Guide*. He is also an investor, backing companies through MaxCapital since 2007, while his newest companies run on AI agents he designs and governs.
 
-**Book details:** ISBN 979-8-9867165-0-3 · 50 pages · English · Publisher: BoostYourCampaign
+**Book details:** ISBN 979-8-9867165-0-3 · English · Publisher: BoostYourCampaign
 
 ---
 
